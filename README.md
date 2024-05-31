@@ -8,10 +8,20 @@ Eu sou o William, e atualmente estou aprendendo e criando projetos com:
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-javascript">
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react">
 
+<br>
+
 ### Conecte comigo:
 
 <a href="https://www.linkedin.com/in/william-almeida-05a113251/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
+<br>
+
+### Estatísticas
+<br>
+
 [![William Stats](https://github-readme-stats.vercel.app/api?username=williamalmeida05)](https://github.com/anuraghazra/github-readme-stats)
+
+### Uso das linguagens
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamalmeida05)](https://github.com/anuraghazra/github-readme-stats)
